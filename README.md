@@ -1,4 +1,5 @@
-#Curiosidades de gatos
+#Curiosidades de gatos  
+
 Aplicación web que muestra una curiosidad aleatoria de los gatos, junto con una imagen relacionada a la primera palabra de la curiosidad obtenida.
 Se realizó el ejercicio para practicar useState, useEffect y Custom Hooks.
 
