@@ -2,7 +2,7 @@
 Aplicación web que muestra una curiosidad aleatoria de los gatos, junto con una imagen relacionada a la primera palabra de la curiosidad obtenida. Se realizó el ejercicio para practicar useState, useEffect y Custom Hooks.  
 
 ### URL  
-
+https://react-curiosidades-gatos.netlify.app/  
 
 ### APIs:  
 - Facts Random: https://catfact.ninja/fact  
