@@ -2,9 +2,6 @@
 Aplicación web que muestra una curiosidad aleatoria de los gatos, junto con una imagen relacionada a las 3 primeras palabras de la curiosidad obtenida.
 Se realizó el ejercicio para practicar useState, useEffect y Custom Hooks.
 
-APIs:
--Facts Random: https://catfact.ninja/fact
--Imagen random: https://cataas.com/cat/says/hello
 
 Tareas:
 -Recuperar un hecho aleatorio de gatos de la primera API.
